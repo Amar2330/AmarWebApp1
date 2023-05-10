@@ -28,3 +28,14 @@ y = 6;    // Assign the value 6 to y
 z = x + y;  // Assign the sum of x and y to z
 
 
+
+document.getElementById("demo").innerHTML =
+"The value of z is " + z + ".";
+</script>
+
+</body>
+</html>
+
+
+
+
